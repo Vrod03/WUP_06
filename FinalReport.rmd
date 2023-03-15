@@ -50,11 +50,11 @@ barchartGC(~race + cappun,data=mydata, type="percent")
 
 ```
 
-This graph shows that white people are most in favor of capital punishment. Second being people of other races and last black people.
-
+This graph shows that white people are most in favor of capital punishment. Second being people of other races and last black people. 
 
 
 ## Now with The Most data (fewer variables gives more data points)
+
 
 
 
@@ -62,7 +62,13 @@ This graph shows that white people are most in favor of capital punishment. Seco
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+```{r}
+table1 <- xtabs(~race + cappun, data=mydata)
+rowPerc(table1)
+colPerc(table1)
+```
 
+Through analyzation its clear that white people are 65.10% in favor of capital punishment while 34.90% are not. 42.63% of black people are in favor of CP while 57.37% are not. Other races are 55.20% in favor of CP while 44.80% are not.
 
 
 ## Now with More data
