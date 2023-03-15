@@ -64,9 +64,13 @@ Although the sample of people is smaller the results look similar to the master 
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+```{r}
+table1 <- xtabs(~race + cappun, data=mydata)
+rowPerc(table1)
+colPerc(table1)
+```
 
-
-
+This data shows that 67.75% of white people favor CP while 32.25% oppose it. 47.24% of black people favor CP while 52.76 oppose it. Other races have 61.25% that favor CP while 38.75% do not. These number are not exactly the same as the master branch but are still similar.
 
 
 ## Inferential Results
