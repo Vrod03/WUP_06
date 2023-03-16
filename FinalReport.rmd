@@ -101,5 +101,5 @@ According to the FisherXY test we can see that each race differs in their views 
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-
+From the data from both branches we were able to conclude that this branch gave a much larger data set of 2,867 points versus the 2nd branch with 800+ points. This means that we only had enough data to draw a strong conclusion from this branch. The smaller data set didn't proved enough information to draw a strong conclusion from fisher XY data. In conclusion we were able to see overall in both data sets that white people were most in favor of capital punishment, black people were least in favor and other races sat in the middle.
 
