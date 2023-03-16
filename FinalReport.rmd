@@ -94,3 +94,9 @@ The fisherXY test is tell us that white people and black people have different p
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+
+Through looking and understanding of the data we can infer that the population of white people are most in favor of capitol punishment. The second more in favor group is those of "other" races. The group who was least in favor were black people. This can be see through analyzation of the vales from the master branch. Although the percentages in this branch were higher due to a smaller sample size. from the statistical point of view there was an insufficient amount of data to conclude that there was an actual statically difference.
+
+
+
