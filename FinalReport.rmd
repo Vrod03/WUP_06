@@ -88,6 +88,7 @@ fisher.test(table1)
 fisherXY (mydata$race,mydata$cappun, printAll=TRUE)
 ```
 
+The fisherXY test is tell us that white people and black people have different p-values of 0.0000741. There is a very very small difference between black people and other people since the p-value is 0.06. Between white people and other people the p-value is 0.25.
 
 
 # Discussion and Conclusion
